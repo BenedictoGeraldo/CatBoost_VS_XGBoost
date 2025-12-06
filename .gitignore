@@ -1,0 +1,26 @@
+# Virtual Environment
+venv_ml/Lib/
+venv_ml/Scripts/
+venv_ml/Include/
+venv_ml/share/
+venv_ml/etc/
+venv_ml/pyvenv.cfg
+venv_ml/catboost_info/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
